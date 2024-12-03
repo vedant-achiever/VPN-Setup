@@ -1,1 +1,2 @@
-# VPN-Setup
+**VPN Configuration Project with Static IP Addressing (Using Tunnel Interface):**
+Set up a site-to-site VPN in Cisco Packet Tracer with static IP addresses for both remote sites. Configured IPsec to create an encrypted tunnel between the two networks, ensuring secure communication over public channels. Utilized static IP addressing to ensure consistent, reliable connections between the sites. Applied Access Control Lists (ACLs) to filter traffic based on IP addresses and manage ICMP (ping) requests across the VPN tunnel. The project demonstrated the use of static IPs in VPN configurations for secure, consistent communication and advanced traffic management.
